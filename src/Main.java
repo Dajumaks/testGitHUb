@@ -9,6 +9,6 @@ public class Main {
         manager.addnumero(5);
         manager.addnumero(5);
         manager.addnumero(5);
-
+        System.out.println("la suma es: " + manager.GetSuma());
     }
 }
